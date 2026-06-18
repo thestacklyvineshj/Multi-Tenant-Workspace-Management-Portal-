@@ -92,8 +92,6 @@ src/
 
 ## Screenshots
 
-Store screenshots in `assets/screenshots/` (or update the paths below), then replace these placeholders with actual captures:
-
 1. Login page with validation  
    ![Login Page](assets/screenshots/login-page.png)
 2. Super Admin dashboard  
@@ -104,5 +102,5 @@ Store screenshots in `assets/screenshots/` (or update the paths below), then rep
    ![Project Management](assets/screenshots/project-management.png)
 5. Activity tracking with export button  
    ![Activity Tracking](assets/screenshots/activity-tracking.png)
-6. Role-restricted view (Viewer or Team Member)  
+6. Role-restricted view (Team Member)  
    ![Role Restricted View](assets/screenshots/role-restricted-view.png)
